@@ -347,19 +347,3 @@
   [hidden] {
     display: none;
   }
-
-  * {
-      box-sizing: border-box;
-      margin 0 auto;
-  }
-
-  .navigation nav a 0 {
-    margin: 100px 40px;
-    border: 1px solid white;
-    padding: 20px;
-    display: inline-block;
-    border-radius: 20px;
-    color: white;
-    text-decoration: none;
-    margin-bottom: 20px;
-    background-color: #Ff764e
